@@ -1,0 +1,35 @@
+.black-keys kbd{
+    background-color: black;
+    width: 15px;
+    height: 100px;
+    padding: 100px 30px;
+    border: 2px solid darkgrey;
+    margin-left: 79px;
+    text-decoration-color: white;
+}
+.white-keys kbd {
+    background-color: white;
+    width: 130px;
+    border: 2px solid darkgrey;
+    height: 200px;
+    padding: 200px 70px;
+    text-align: center;
+    margin-left: -1px;
+}
+div.white-keys {
+    width: 59%;
+    margin: 23% auto;
+    height: 200px;
+}
+div.black-keys{
+    width: 55%;
+    margin: -39% auto;
+    height: 500px;
+}
+.span{
+    position: relative;
+    left: 155px;
+}
+body{
+    background-color: darkcyan;
+}
